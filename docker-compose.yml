@@ -1,0 +1,20 @@
+version: "3.8"
+services:
+  app:
+    image: nuzzlabs1/reply-instagram-comments-ai:latest
+    networks:
+      - NetNuzz
+    deploy:
+      replicas: 1
+      labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.insta-reply.rule=Host(`insta-reply.nuzz.com.br`)"
+        - "traefik.http.routers.insta-reply.entrypoints=websecure"
+        - "traefik.http.routers.insta-reply.tls.certresolver=letsencryptresolver"
+        - "traefik.http.routers.insta-reply.priority=10"
+        - "traefik.http.services.insta-reply.loadbalancer.passHostHeader=true"
+        - "traefik.http.services.insta-reply.loadbalancer.server.port=4173"
+networks:
+  NetNuzz:
+    external: true
+    name: NetNuzz
