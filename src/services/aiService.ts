@@ -4,8 +4,8 @@ function resolveApiKey(): string {
   const viteEnv = import.meta.env as Record<string, string | undefined>;
 
   return (
+    process.env.GEMINI_API_KEY ||
     viteEnv.VITE_GEMINI_API_KEY ||
-    viteEnv.GEMINI_API_KEY ||
     (globalThis as Record<string, unknown>).GEMINI_API_KEY as string ||
     ""
   );
