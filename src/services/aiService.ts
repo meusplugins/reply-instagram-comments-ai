@@ -1,6 +1,17 @@
 import { GoogleGenAI, Type } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: import.meta.env.VITE_GEMINI_API_KEY || "" });
+function resolveApiKey(): string {
+  const viteEnv = import.meta.env as Record<string, string | undefined>;
+
+  return (
+    viteEnv.VITE_GEMINI_API_KEY ||
+    viteEnv.GEMINI_API_KEY ||
+    (globalThis as Record<string, unknown>).GEMINI_API_KEY as string ||
+    ""
+  );
+}
+
+const ai = new GoogleGenAI({ apiKey: resolveApiKey() });
 
 export interface CommentAnalysis {
   sentiment: 'positive' | 'neutral' | 'negative';
