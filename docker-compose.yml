@@ -8,7 +8,7 @@ services:
       replicas: 1
       labels:
         - "traefik.enable=true"
-        - "traefik.http.routers.insta-reply.rule=Host(`insta-reply.nuzz.com.br`)"
+        - "traefik.http.routers.insta-reply.rule=Host(`reply-instagram.nuzz.com.br`)"
         - "traefik.http.routers.insta-reply.entrypoints=websecure"
         - "traefik.http.routers.insta-reply.tls.certresolver=letsencryptresolver"
         - "traefik.http.routers.insta-reply.priority=10"
