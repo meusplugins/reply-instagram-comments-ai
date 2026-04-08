@@ -24,8 +24,9 @@ jobs:
           npm install --legacy-peer-deps
           npm run build
         env:
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
 
       - name: Build and push
         uses: docker/build-push-action@v5
@@ -34,5 +35,6 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/reply-instagram-comments-ai:latest
           build-args: |
+            GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}
             VITE_SUPABASE_URL=${{ secrets.VITE_SUPABASE_URL }}
             VITE_SUPABASE_ANON_KEY=${{ secrets.VITE_SUPABASE_ANON_KEY }}
