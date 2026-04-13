@@ -386,8 +386,8 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/658821808_17959144518102650_8751765835693170279_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg2ODU3Nzg3MjY4MDQyNTU0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=0wCDxGx19k8Q7kNvwES1AFb&_nc_oc=AdqgHtq1FWfLu-mX3jl_JILxCyFZFigFUH0Zo-ASIj-9sK4r0VXZKRqe40VMotVz23yKOQuophGap4XJL56Kdrwu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=-ifJ0auyMCoS_bA1bC6pvw&_nc_ss=7a32e&oh=00_Af36NbLF6t5bXa9asREiLkGcxdj7BfaI_IMCIv06i5m-5A&oe=69D8484B',
-    caption: 'Páscoa: um convite para recomeçar de dentro para fora. A Páscoa vai além de datas, ela simboliza renovação, cuidado e novos começos. É o momento ideal para desacelerar, olhar para si com mais atenção e acolher aquilo que precisa ser cuidado. Na Vibe Terapias, acreditamos que recomeçar também é um ato de autocuidado. Que essa nova fase venha com mais leveza, consciência e bem-estar.',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669978743_17961118527102650_2737348861477407919_n.jpg',
+    caption: 'Liberação miofascial: quando é a hora de fazer?\n\nSe você sente dores constantes, rigidez muscular ou aquela sensação de corpo travado, esse é o sinal que seu corpo dá pedindo cuidado. A liberação miofascial atua diretamente nas tensões profundas, promovendo alívio, melhora da mobilidade e bem-estar desde as primeiras sessões.\n\nNão espere a dor limitar sua rotina. Agende sua sessão e sinta os benefícios de um corpo mais leve, solto e sem dores com a Vibe Terapias!',
     createdAt: new Date(),
     likesCount: 124
   },
@@ -396,8 +396,8 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/658800387_17958564954102650_7479196950455991949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg2NzQ2MDIzMTg4Njg5NzIwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNjV4MTgyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=XWv6lmG89yQQ7kNvwELgiw_&_nc_oc=Adp4u8NzT7QQbszRT6z9rDPz7Qc-XQLJ3n0ifVPEcqoEwH9005JjreVfcFoGaMOWy1kSk_7BgtIn5Gv1JX4rYTo1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=_XKGvNiVeWKymEbcO9ldoQ&_nc_ss=7a32e&oh=00_Af0htD5wfI3ZAap9aOOV0tjtOFSxE5gTMifgwFW0HG-3KQ&oe=69D840EF',
-    caption: 'Quando foi a última vez que você realmente ouviu o seu corpo? Nem sempre ele fala alto, mas sempre dá sinais. Você tem prestado atenção neles? No corre-corre do dia a dia, muitas vezes ignoramos os pequenos sinais que o corpo nos envia, até que a dor se torne impossível de ignorar. Na Vibe Terapias, acreditamos que o cuidado começa ao ouvir o seu corpo, entendendo suas necessidades e buscando soluções para restabelecer o equilíbrio. Permita-se refletir sobre os sinais que seu corpo está enviando e agende uma sessão para cuidar de você de forma personalizada. Conte com a gente! Vem pra Vibe.',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/670152073_17960854599102650_9177754264131539343_n.jpg',
+    caption: 'Quadril fraco = Coluna travada!\n\nSe você sente dores na coluna ou dificuldade de movimento, é importante entender como o fortalecimento do quadril pode impactar diretamente na saúde da sua coluna. Na Vibe Terapias, utilizamos a liberação miofascial como tratamento eficaz para aliviar essas tensões e restaurar a sua mobilidade.\n\nNão deixe a dor controlar sua vida. Agende sua sessão agora e descubra os benefícios da liberação miofascial para o alívio duradouro e o fortalecimento do seu corpo!',
     createdAt: new Date(),
     likesCount: 89
   },
@@ -406,8 +406,8 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/657892461_17958562920102650_6244935393239674271_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzg2NzEyODM4MDk5NTQ4OTE5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNjV4MTgyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1_iqtSlfvQoQ7kNvwGSP-Q4&_nc_oc=AdpiyCZMofsBwu7-ydho1Vj9QM5hxKtPlJyMnX0aE5pFD-oQuZEBCjaAnlLsVyIdUZYNenJ-L4haWxIvkwViFfaB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=-ifJ0auyMCoS_bA1bC6pvw&_nc_ss=7a32e&oh=00_Af1qqdcj7JI2ZrXbu2qloHPQ4QcWQETeS0nIxYMyQ7Jisw&oe=69D83955',
-    caption: 'Talvez o que você precisa não seja continuar… é pausar. No meio da rotina agitada, é fácil se perder nas tarefas diárias e ignorar sinais do corpo. O desconforto se torna algo “normal” até que algo maior aconteça. Aqui na Vibe Terapias, queremos que você se permita pausar e cuidar de si mesmo, antes que seja tarde demais. Hoje, faça uma pausa e observe seu corpo com a gente. Agende sua sessão e descubra como podemos ajudar você a aliviar as dores e recuperar sua qualidade de vida. Vem pra Vibe',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669700841_17960771859102650_9087043069538841560_n.jpg',
+    caption: 'Priorize seu autocuidado e comece o fim de semana renovado!\n\nNa Vibe Terapias, oferecemos tratamentos com a liberação Miofascial para aliviar as tensões e recarregar suas energias.\n\nAgende sua sessão agora mesmo e sinta a diferença! Vem pra Vibe!',
     createdAt: new Date(),
     likesCount: 215
   },
@@ -416,8 +416,8 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/658663834_17958565509102650_671052658738926454_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzg2NjczNTQ0MDY5NTQ2OTM5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=dLsgu8JCF0QQ7kNvwEFbmNZ&_nc_oc=Adrb_RO55Rkw8cq7hPK_3h8wBJiWVhxf6dKv4xXDBA0e_toLBbGu95rdyqw0mlzG_hJ3en6kT6SmGgrKChCpySpW&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=-ifJ0auyMCoS_bA1bC6pvw&_nc_ss=7a32e&oh=00_Af2-66mFXxhfDleOty6AxLwHUrwc5MRW560XxJZql2y_Hw&oe=69D81C85',
-    caption: 'Dia Mundial de Conscientização do Autismo. Neste dia 2 de abril, celebramos a inclusão e a conscientização sobre o autismo. Cada pessoa é única e respeitar as diferenças é o primeiro passo para construir um mundo mais empático e inclusivo. Na Vibe Terapias, valorizamos a diversidade e trabalhamos com amor e cuidado para oferecer terapias que atendam às necessidades de cada indivíduo. Juntos, podemos criar um ambiente mais acolhedor para todos.',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669662876_17960508150102650_7061589626637437015_n.jpg',
+    caption: 'LIBERAÇÃO MIOFASCIAL: A SOLUÇÃO EFICAZ PARA ALÍVIO DE DOR\n\nA Vibe Terapias é referência no tratamento de dor, especializada em Liberação Miofascial, uma técnica manual que atua diretamente na fáscia, tecido que envolve músculos e articulações. Através dessa abordagem, conseguimos aliviar tensões que podem estar causando dores crônicas e desconfortos em várias partes do corpo, muitas vezes sem uma causa aparente. Com nossa experiência, tratamos as restrições miofasciais de forma eficaz, proporcionando alívio imediato e promovendo o bem-estar.',
     createdAt: new Date(),
     likesCount: 156
   }
