@@ -386,7 +386,7 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669978743_17961118527102650_2737348861477407919_n.jpg',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669978743_17961118527102650_2737348861477407919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg3NDAyODg3NTA1MTU1MTEzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=B0KjJNJNt5AQ7kNvwGTm0yy&_nc_oc=AdqLvfmjVS2k5DKZEDU9cO32bIJaKHnfqxrUHMe0yx4LvJU1h-HfaxcEU2Ib7KlEanZUKnuvKFHdOu2KxOIimKWT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=SBjeD72yS1W3B4jWyvTt5Q&_nc_ss=7a32e&oh=00_Af3DJ88Z83W4eGQBurbPWDoM6FqqVLdiYTDlP68g9hIZfg&oe=69E2EA96',
     caption: 'Liberação miofascial: quando é a hora de fazer?\n\nSe você sente dores constantes, rigidez muscular ou aquela sensação de corpo travado, esse é o sinal que seu corpo dá pedindo cuidado. A liberação miofascial atua diretamente nas tensões profundas, promovendo alívio, melhora da mobilidade e bem-estar desde as primeiras sessões.\n\nNão espere a dor limitar sua rotina. Agende sua sessão e sinta os benefícios de um corpo mais leve, solto e sem dores com a Vibe Terapias!',
     createdAt: new Date(),
     likesCount: 124
@@ -396,7 +396,7 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/670152073_17960854599102650_9177754264131539343_n.jpg',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/670152073_17960854599102650_9177754264131539343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg3MzI4NzE5Mzg3NjA0MzAwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1hvUWySxRxUQ7kNvwF5OCLM&_nc_oc=Adr5bZqsudBo8LK4dHMeoqbsCyG0pyzGu9UkVGDCtuSI4g9ioXSv9WhgnPFx_YH2HvbaCJgE6_FJCFUa39uH145h&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=SBjeD72yS1W3B4jWyvTt5Q&_nc_ss=7a32e&oh=00_Af1yysbf440dlMaAn5G0nnZv4UFA_3mPWoYEy0LqARZfaw&oe=69E2C8EB',
     caption: 'Quadril fraco = Coluna travada!\n\nSe você sente dores na coluna ou dificuldade de movimento, é importante entender como o fortalecimento do quadril pode impactar diretamente na saúde da sua coluna. Na Vibe Terapias, utilizamos a liberação miofascial como tratamento eficaz para aliviar essas tensões e restaurar a sua mobilidade.\n\nNão deixe a dor controlar sua vida. Agende sua sessão agora e descubra os benefícios da liberação miofascial para o alívio duradouro e o fortalecimento do seu corpo!',
     createdAt: new Date(),
     likesCount: 89
@@ -406,7 +406,7 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669700841_17960771859102650_9087043069538841560_n.jpg',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669700841_17960771859102650_9087043069538841560_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg3MzA3NzE5NjM1NzQ5NDgwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=d5U2jOrvb3YQ7kNvwF487lC&_nc_oc=Adql6PaC7BND38S9FVryu3ZvFNxgQ3J7Xk99QQjxqcs8rQriSsK5SPwY1mBBoRkRGDqH-aE6F11eGH3q7Uxdc9tU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=SBjeD72yS1W3B4jWyvTt5Q&_nc_ss=7a32e&oh=00_Af16YBcz0Lj0as_dRTMRTC-JJqsRRgNSXzr13fVDzvlEhQ&oe=69E2C0F7',
     caption: 'Priorize seu autocuidado e comece o fim de semana renovado!\n\nNa Vibe Terapias, oferecemos tratamentos com a liberação Miofascial para aliviar as tensões e recarregar suas energias.\n\nAgende sua sessão agora mesmo e sinta a diferença! Vem pra Vibe!',
     createdAt: new Date(),
     likesCount: 215
@@ -416,7 +416,7 @@ const INITIAL_POSTS: Post[] = [
     authorUID: 'admin',
     authorName: 'Vibe Terapias',
     authorPhoto: 'https://picsum.photos/seed/vibe1/200/200',
-    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669662876_17960508150102650_7061589626637437015_n.jpg',
+    imageURL: 'https://instagram.fldb1-1.fna.fbcdn.net/v/t51.82787-15/669662876_17960508150102650_7061589626637437015_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzg3MjI5NjExOTc4NzQ0ODM0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=6IYx9fYc6qsQ7kNvwExcQnY&_nc_oc=AdrLkyCUwfcQfxUbGz9NYxkRtTgQHZ4UevS1b6y93W7nnVsmSwzMKxVcL68xH99P9jahPDULp08Po7K1ypLEy48y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fldb1-1.fna&_nc_gid=SBjeD72yS1W3B4jWyvTt5Q&_nc_ss=7a32e&oh=00_Af12aZqUWRKroenymZOj35LU_AD5YqRck-WiuhSb6G6WpA&oe=69E2CC3E',
     caption: 'LIBERAÇÃO MIOFASCIAL: A SOLUÇÃO EFICAZ PARA ALÍVIO DE DOR\n\nA Vibe Terapias é referência no tratamento de dor, especializada em Liberação Miofascial, uma técnica manual que atua diretamente na fáscia, tecido que envolve músculos e articulações. Através dessa abordagem, conseguimos aliviar tensões que podem estar causando dores crônicas e desconfortos em várias partes do corpo, muitas vezes sem uma causa aparente. Com nossa experiência, tratamos as restrições miofasciais de forma eficaz, proporcionando alívio imediato e promovendo o bem-estar.',
     createdAt: new Date(),
     likesCount: 156
